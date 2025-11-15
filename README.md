@@ -11,7 +11,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝       ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,25:00ffff,50:ff0080,75:00ffff,100:ff0080&height=180&section=header&text=◉%20Muzakir Masood Lone%20◉&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=⚡%20CYBER%20OPERATIVE%20⚡&descAlignY=55&descAlign=50&descSize=20" alt="Cyberpunk Header" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,25:00ffff,50:ff0080,75:00ffff,100:ff0080&height=180&section=header&text=◉%20Muzakir%20Masood%20Lone%20◉&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=⚡%20CYBER%20OPERATIVE%20⚡&descAlignY=55&descAlign=50&descSize=20)
 
 ```
 🔥 SYSTEM BREACH DETECTED 🔥
