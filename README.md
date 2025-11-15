@@ -1,5 +1,5 @@
 <div align="center">
-
+```
 ╔═══════════════════════════════════════════════════════════════════════════════╗
 ║ 🔮🕵️                  CYBER-DETECTIVE ORACLE INTERFACE                  🕵️🔮║
 ║                                                                               ║
@@ -23,7 +23,7 @@
 ║     cybersecurity expert and securing digital platforms along the way.        ║
 ║                                                                               ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
-
+```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=QUANTUM+DEBUGGING+INITIATED...;SCANNING+DIGITAL+MYSTERIES...;ORACLE+SYSTEMS+ONLINE" alt="Typing Animation" />
 
