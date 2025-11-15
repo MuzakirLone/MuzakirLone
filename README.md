@@ -377,12 +377,6 @@ Time Management
 [![Portfolio](https://img.shields.io/badge/🌐_Case_Archives-0a0a0a?style=for-the-badge&logo=firefox&logoColor=ff6ec7&labelColor=00ffff)]([Your website])
 [![Discord](https://img.shields.io/badge/🎮_Secure_Comms-0a0a0a?style=for-the-badge&logo=discord&logoColor=00ffff&labelColor=ff6ec7)]([Your discord])
 
-### 🔥 **NEURAL LINK METRICS**
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MuzakirLone&theme=synthwave&bg_color=0a0a0a&border_color=00ffff&text_color=ffffff&title_color=00ffff" alt="WakaTime Stats" />
-
-</div>
-
 ---
 
 <div align="center">
