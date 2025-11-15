@@ -1,20 +1,29 @@
 <div align="center">
 
-```
 ╔═══════════════════════════════════════════════════════════════════════════════╗
-║  🔮🕵️             CYBER-DETECTIVE ORACLE INTERFACE            🕵️🔮           ║
+║ 🔮🕵️                  CYBER-DETECTIVE ORACLE INTERFACE                  🕵️🔮║
 ║                                                                               ║
-║   AGENT: Muzakir Masood Lone                    CODENAME: "Muzakir"                   ║
-║   RANK: [Your role] • DEPARTMENT: [Your company]                                   ║
-║   JURISDICTION: Anantnag, Jammu and Kashmir • CLEARANCE: Fresher                ║
+║   AGENT: Muzakir Masood Lone                     CODENAME: "Muzakir"          ║
+║   RANK: Security Researcher • DEPARTMENT: HackerOne                           ║
+║   JURISDICTION: Anantnag, Jammu and Kashmir • CLEARANCE: Fresher              ║
 ║                                                                               ║
-║   🎯 MISSION: [Your tagline]                                                     ║
-║   ⚡ STATUS: Security Researcher at HackerOne and open to new cybersecurity opportunities                                                ║
+║       MISSION: Secure the digital world                                       ║
+║       STATUS: Security Researcher at HackerOne and open to new                ║
+║               opportunities                                                   ║
 ║                                                                               ║
-║   💫 AGENT PROFILE: I am a Cybersecurity student passionate about web application security, bug bounty hunting and penetration testing. I am a security researcher at HackerOne and I love to find bugs in web applications especially in web domains. I have found bugs like XSS, Broken Access Control, Sensitive Data Exposure and account takeovers. I make some cybersecurity tools on my own to help me in my journey towards becoming a cybersecurity expert and securing digital platforms on the way.                                                   ║
+║     AGENT PROFILE:                                                            ║
+║     I am a Cybersecurity student passionate about web application security,   ║
+║     bug bounty hunting, and penetration testing.                              ║
+║                                                                               ║
+║     I am a security researcher at HackerOne and I love to find bugs in web    ║
+║     applications, especially in web domains. I have found bugs like XSS,      ║
+║     Broken Access Control, Sensitive Data Exposure, and account takeovers.    ║
+║                                                                               ║
+║     I also build cybersecurity tools to aid my journey toward becoming a      ║
+║     cybersecurity expert and securing digital platforms along the way.        ║
 ║                                                                               ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
-```
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=QUANTUM+DEBUGGING+INITIATED...;SCANNING+DIGITAL+MYSTERIES...;ORACLE+SYSTEMS+ONLINE" alt="Typing Animation" />
 
@@ -65,17 +74,19 @@
 *Quantum-enhanced investigative tools...*
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                    🔮 ORACLE SPECIFICATIONS 🔮                ║
-╠═══════════════════════════════════════════════════════════════╣
-║ Primary Nexus: Vulnerability Assessment and Penetration Testing                                ║
-║ Tech Constellation: Burp Suite, JavaScript, Metasploit, SQL, Bash, Linux, PowerShell                            ║
-║ Expertise Domain: Cybersecurity                              ║
-║ Quantum Learning: Active directory Pentesting                        ║
-║ Neural Training: 10 hours hrs/week               ║
-║ Caffeine Fuel: 1 hour quantum doses/day             ║
-║ Design Meditation: 2 hours hrs/week                  ║
-╚═══════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════╗
+║                          🔮 ORACLE SPECIFICATIONS 🔮                      ║
+╠════════════════════════════════════════════════════════════════════════════╣
+║ Primary Nexus:       Vulnerability Assessment & Penetration Testing        ║
+║ Tech Constellation:  Burp Suite, JavaScript, Metasploit, SQL, Bash, Linux, ║
+║                      PowerShell                                            ║
+║ Expertise Domain:    Cybersecurity                                         ║
+║ Quantum Learning:    Active Directory Pentesting                           ║
+║ Neural Training:     10 hours/week                                         ║
+║ Caffeine Fuel:       1 quantum dose/day                                    ║
+║ Design Meditation:   2 hours/week                                          ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
 ```
 
 ### ⚡ **DIGITAL WEAPONRY**
@@ -217,16 +228,23 @@ A PyQt5 desktop application that evaluates password strength using heuristic sco
 
 ```
 ╔═══════════════════════════════════════════╗
-║         🏅 HALL OF RECOGNITION 🏅         ║
+║             HALL OF RECOGNITION           ║
 ╠═══════════════════════════════════════════╣
 ║                                           ║
-║ 🥇 Found a account takeover bug in a public bug bounty program held my Intigriti.                      ║
+║  Found an account takeover bug in a       ║
+║  public bug bounty program hosted by      ║
+║  Intigriti.                               ║
 ║                                           ║
-║ 🥈 Being in the top 6% in TryHackMe global rankings.                      ║
+║  Ranked in the top 6% of TryHackMe        ║
+║  global rankings.                         ║
 ║                                           ║
-║ 🥉 Currently ranked 71st in HackTheBox season 9 labs wordlwide.                       ║
+║  Currently ranked 71st in HackTheBox      ║
+║  Season 9 labs worldwide.                 ║
 ║                                           ║
-║ 📜 Certifications: Microsoft Sc-900, Google Cybersecurity Certification, CISCO Networking Essentials    ║
+║  Certifications:                          ║
+║    • Microsoft SC-900                     ║
+║    • Google Cybersecurity Certification   ║
+║    • CISCO Networking Essentials          ║
 ║                                           ║
 ╚═══════════════════════════════════════════╝
 ```
@@ -237,22 +255,28 @@ A PyQt5 desktop application that evaluates password strength using heuristic sco
 ### 🔮 **ORACLE PROPHECY**
 
 ```
-╔═══════════════════════════════════════════╗
-║          🌟 QUANTUM DESTINY 🌟            ║
-╠═══════════════════════════════════════════╣
-║                                           ║
-║ Current Mission: Get a cybersecurity internship through which I can gain experience in the job field.          ║
-║                                           ║
-║ Next Dimension: Become a Cybersecurity Engineer or Penetration Tester              ║
-║                                           ║
-║ Ultimate Quest: Securing user data and interests in this technologically advancing world.               ║
-║                                           ║
-║ Focus Nexus: Learning and practicing Active Directory Penetration Testing             ║
-║                                           ║
-║ Sacred Wisdom:                            ║
-║ ""Never say no to hard things, they are the ones that make you challenge yourself and ultimately grow" - Muzakir Lone"                  ║
-║                                           ║
-╚═══════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════╗
+║                          🌟 QUANTUM DESTINY 🌟                            ║
+╠════════════════════════════════════════════════════════════════════════════╣
+║                                                                            ║
+║ Current Mission:                                                           ║
+║   Gain a cybersecurity internship to build experience in the job field.    ║
+║                                                                            ║
+║ Next Dimension:                                                            ║
+║   Become a Cybersecurity Engineer or Penetration Tester.                   ║
+║                                                                            ║
+║ Ultimate Quest:                                                            ║
+║   Securing user data and interests in this technologically advancing world.║
+║                                                                            ║
+║ Focus Nexus:                                                               ║
+║   Learning and practicing Active Directory Penetration Testing.            ║
+║                                                                            ║
+║ Sacred Wisdom:                                                             ║
+║   "Never say no to hard things; they are the ones that challenge you and   ║
+║    ultimately help you grow." – Muzakir Lone                               ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
 ```
 
 </td>
@@ -356,11 +380,10 @@ Time Management
 
 *Secure channels for interdimensional contact...*
 
-```
-              🛸
-         ╔══════════╗
-         ║ COMM HUB ║
-         ╚═══════════╝
+```          🛸
+        ╔══════════╗
+        ║ COMM HUB ║
+        ╚══════════╝
              │
     ┌────────┼────────┐
     │        │        │
@@ -396,20 +419,24 @@ Time Management
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                        🔮🕵️ TRANSMISSION COMPLETE 🕵️🔮                       ║
-║                                                                               ║
-║  The cyber-mystical investigation continues. Agent Muzakir Masood Lone remains active   ║
-║  in the digital realm, solving quantum mysteries and debugging reality.      ║
-║                                                                               ║
-║  📡 Neural Link Status: ACTIVE                                               ║
-║  🔮 Oracle Systems: ONLINE                                                   ║
-║  ⚡ Quantum Debugging: ENABLED                                               ║
-║                                                                               ║
-║  "In code we trust, through bugs we transcend, with coffee we conquer."     ║
-║                                                                               ║
-║                    🌟 END OF CLASSIFIED TRANSMISSION 🌟                      ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════╗
+║                        🔮🕵️ TRANSMISSION COMPLETE 🕵️🔮                   ║
+╠════════════════════════════════════════════════════════════════════════════╣
+║                                                                            ║
+║  The cyber-mystical investigation continues.                               ║
+║  Agent Muzakir Masood Lone remains active in the digital realm,            ║
+║  solving quantum mysteries and debugging reality.                          ║
+║                                                                            ║
+║    Neural Link Status: ACTIVE                                              ║
+║    Oracle Systems: ONLINE                                                  ║
+║    Quantum Debugging: ENABLED                                              ║
+║                                                                            ║
+║  "In code we trust, through bugs we transcend,                             ║
+║   with coffee we conquer."                                                 ║
+║                                                                            ║
+║                    🌟 END OF CLASSIFIED TRANSMISSION 🌟                   ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
 ```
 
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix Rain Effect" width="100%" />
