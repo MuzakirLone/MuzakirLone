@@ -58,7 +58,10 @@ NEURAL_LINK=ACTIVE
 
 ┌─[root@MuzakirLone]─[~]
 └──╼ $ echo $MISSION
-I am a Cybersecurity student passionate about web application security, bug bounty hunting and penetration testing. I am a security researcher at HackerOne and I love to find bugs in web applications especially in web domains. I have found bugs like XSS, Broken Access Control, Sensitive Data Exposure and account takeovers. I make some cybersecurity tools on my own to help me in my journey towards becoming a cybersecurity expert and securing digital platforms on the way. 
+I am a Cybersecurity student passionate about web application security, bug bounty hunting and penetration testing.
+I am a security researcher at HackerOne and I love to find bugs in web applications especially in web domains.
+I have found bugs like XSS, Broken Access Control, Sensitive Data Exposure and account takeovers.
+I make some cybersecurity tools on my own to help me in my journey towards becoming a cybersecurity expert and securing digital platforms on the way. 
 ```
 
 </td>
