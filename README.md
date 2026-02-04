@@ -2,17 +2,17 @@
         
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════╗
-║ 🔮🕵️                  CYBER-DETECTIVE ORACLE INTERFACE                  🕵️🔮║
+║ 🔮🕵️                           Introduction                             🕵️🔮║
 ║                                                                               ║
-║   AGENT: Muzakir Masood Lone                     CODENAME: "Muzakir"          ║
-║   RANK: Security Researcher • DEPARTMENT: HackerOne                           ║
-║   JURISDICTION: Anantnag, Jammu and Kashmir • CLEARANCE: Fresher              ║
+║   Name: Muzakir Masood Lone                                                   ║
+║   Working As: Security Researcher • DEPARTMENT: HackerOne                     ║
+║   Location: Anantnag, Jammu and Kashmir • Experience: Fresher                 ║
 ║                                                                               ║
-║       MISSION: Secure the digital world                                       ║
-║       STATUS: Security Researcher at HackerOne and open to new                ║
+║             STATUS: Security Researcher at HackerOne and open to new          ║
 ║               opportunities                                                   ║
 ║                                                                               ║
-║     AGENT PROFILE:                                                            ║
+║                                                                               ║
+║     PROFILE:                                                                  ║
 ║     I am a Cybersecurity student passionate about web application security,   ║
 ║     bug bounty hunting, and penetration testing.                              ║
 ║                                                                               ║
@@ -70,9 +70,7 @@
 
 <div align="center">
 
-## 🔧 **CYBER-MYSTICAL ARSENAL** 🔧
-
-*Quantum-enhanced investigative tools...*
+## 🔧 **CYBER ARSENAL** 🔧
 
 ```
 ╔════════════════════════════════════════════════════════════════════════════╗
@@ -89,18 +87,6 @@
 ╚════════════════════════════════════════════════════════════════════════════╝
 
 ```
-
-### ⚡ **DIGITAL WEAPONRY**
-
-<div align="center">
-
-![Skills](https://skillicons.dev/icons?i=[![My Skills](https://skillicons.dev/icons?i=python,graphql,mysql,docker,linux,scikitlearn,postman,vim,vscode,github,discord,js,bootstrap,vite,php,fastapi,redis,apache)](https://skillicons.dev)&perline=8&theme=dark)
-
-</div>
-
-<details>
-<summary>🔍 <strong>EXPAND FORENSIC TOOLKIT</strong></summary>
-
 ```
 🔮 MYSTICAL PROGRAMMING LANGUAGES:
 ├── Quantum Spells (Python/JavaScript)
@@ -257,7 +243,7 @@ A PyQt5 desktop application that evaluates password strength using heuristic sco
 
 ```
 ╔════════════════════════════════════════════════════════════════════════════╗
-║                          🌟 QUANTUM DESTINY 🌟                            ║
+║                          🌟 Future Aspirations 🌟                         ║
 ╠════════════════════════════════════════════════════════════════════════════╣
 ║                                                                            ║
 ║ Current Mission:                                                           ║
@@ -367,31 +353,9 @@ Time Management
 </tr>
 </table>
 
-### 🐍 **NEURAL PATHWAY VISUALIZATION**
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-
-</div>
-
 ---
 
 <div align="center">
-
-## 📡 **QUANTUM COMMUNICATION ARRAY** 📡
-
-*Secure channels for interdimensional contact...*
-
-```          🛸
-        ╔══════════╗
-        ║ COMM HUB ║
-        ╚══════════╝
-             │
-    ┌────────┼────────┐
-    │        │        │
-   📧       💼       🐦
-  SECURE   CORP     INTEL
-  CHANNEL  LINK   NETWORK
-```
 
 ### 🌐 **DIMENSIONAL PORTALS**
 
@@ -441,14 +405,3 @@ Time Management
 ```
 
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix Rain Effect" width="100%" />
-
-### 🎯 **QUANTUM DEBUGGING PROTOCOL ACTIVATED** 🎯
-
-```
-> Initializing holographic interface...
-> Loading agent profile...
-> Establishing quantum connection...
-> Ready for next investigation...
-```
-
-</div>
