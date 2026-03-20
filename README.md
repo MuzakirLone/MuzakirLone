@@ -76,7 +76,7 @@
 ---
 
 ## 🏆 CTF & Labs
-[![Hack The Box](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=101010)]()  
+[![Hack The Box](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=101010)](https://app.hackthebox.com/users/2095996)  
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=101010)](https://tryhackme.com/p/LoneMuzakir)  
 [![CTFtime](https://img.shields.io/badge/CTFtime-000000?style=for-the-badge&logo=ctftime&logoColor=white&labelColor=101010)]()  
 
