@@ -52,9 +52,7 @@
 ## 💻 Programming & Scripting
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()  
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=101010)]()  
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=101010)]()  
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()  
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()  
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)]()  
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)]()  
 
@@ -62,14 +60,12 @@
 
 ## 🧰 Frameworks & Libraries
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=101010)]()  
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=101010)]()  
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)]()  
 
 ---
 
 ## 🗄️ Databases
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()  
-[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=101010)]()  
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()  
 
 ---
@@ -81,10 +77,8 @@
 
 ## 🏆 CTF & Labs
 [![Hack The Box](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=101010)]()  
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=101010)]()  
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=101010)](https://tryhackme.com/p/LoneMuzakir)  
 [![CTFtime](https://img.shields.io/badge/CTFtime-000000?style=for-the-badge&logo=ctftime&logoColor=white&labelColor=101010)]()  
-
-> Ex-Member of **Caliphal Hounds**
 
 ---
 
@@ -102,11 +96,6 @@
 [![Email](https://img.shields.io/badge/Email-muzakirmasood2005@gmail.com-D14836?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=101010)](mailto:muzakirmasood2005@gmail.com)    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/muzakirlone/)  
 
----
-
-### ⚠️ Disclaimer  
-All code, exploits, and write-ups are published **strictly for educational and research purposes**.  
-Use them responsibly and always obtain proper authorization before testing any system.
 ---
 
 <div align="center">
