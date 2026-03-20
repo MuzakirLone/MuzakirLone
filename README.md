@@ -99,8 +99,8 @@
 ---
 
 ## 📫 Contact
-[![Email](https://img.shields.io/badge/Email-javiergc100@protonmail.com-D14836?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=101010)](mailto:javiergc100@protonmail.com)    
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/javier-gonz%C3%A1lez-casares-16427830b/)  
+[![Email](https://img.shields.io/badge/Email-muzakirmasood2005@gmail.com-D14836?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=101010)](mailto:muzakirmasood2005@gmail.com)    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/muzakirlone/)  
 
 ---
 
