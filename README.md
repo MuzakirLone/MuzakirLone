@@ -26,10 +26,87 @@
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=QUANTUM+DEBUGGING+INITIATED...;SCANNING+DIGITAL+MYSTERIES...;ORACLE+SYSTEMS+ONLINE" alt="Typing Animation" />
+# 👋 Hi, I’m **Javier** ;)  
+### 🛡️ Red-Team Enthusiast · Computer Engineer · CTF Tinkerer
 
-</div>
+> _As a kid, I used to break things by accident, now I do it on purpose._  
+> _You can find more about me on my GitHub portfolio._
 
+---
+
+## 🛠️ Offensive-Security Toolkit
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=101010)]()  
+[![Metasploit](https://img.shields.io/badge/Metasploit-2F4A9C?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=101010)]()  
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF7139?style=for-the-badge&logo=burp-suite&logoColor=white&labelColor=101010)]()  
+[![Nmap](https://img.shields.io/badge/Nmap-447265?style=for-the-badge&logo=nmap&logoColor=white&labelColor=101010)]()  
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=101010)]()  
+[![BloodHound](https://img.shields.io/badge/BloodHound-E2291B?style=for-the-badge&logo=bloodhound&logoColor=white&labelColor=101010)]()  
+[![CrackMapExec](https://img.shields.io/badge/CrackMapExec-363636?style=for-the-badge&logo=windows-terminal&logoColor=white&labelColor=101010)]()  
+[![Impacket](https://img.shields.io/badge/Impacket-00A3E0?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()  
+[![Ghidra](https://img.shields.io/badge/Ghidra-B0292E?style=for-the-badge&logo=ghidra&logoColor=white&labelColor=101010)]()  
+[![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=101010)]()  
+[![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()  
+
+---
+
+## 💻 Programming & Scripting
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()  
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=101010)]()  
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=101010)]()  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()  
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()  
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)]()  
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)]()  
+
+---
+
+## 🧰 Frameworks & Libraries
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=101010)]()  
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=101010)]()  
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)]()  
+
+---
+
+## 🗄️ Databases
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()  
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=101010)]()  
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()  
+
+---
+
+## ☁️ Containers & DevOps
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()  
+
+---
+
+## 🏆 CTF & Labs
+[![Hack The Box](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=101010)]()  
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=101010)]()  
+[![CTFtime](https://img.shields.io/badge/CTFtime-000000?style=for-the-badge&logo=ctftime&logoColor=white&labelColor=101010)]()  
+
+> Ex-Member of **Caliphal Hounds**
+
+---
+
+## 🤖 AI-Driven Security & Automation
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=101010)]()  
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=101010)]()  
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=101010)]()   
+[![pwntools](https://img.shields.io/badge/pwntools-333333?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()  
+
+> _Building intelligent recon & exploit tooling that keeps working **while I sleep**._
+
+---
+
+## 📫 Contact
+[![Email](https://img.shields.io/badge/Email-javiergc100@protonmail.com-D14836?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=101010)](mailto:javiergc100@protonmail.com)    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/javier-gonz%C3%A1lez-casares-16427830b/)  
+
+---
+
+### ⚠️ Disclaimer  
+All code, exploits, and write-ups are published **strictly for educational and research purposes**.  
+Use them responsibly and always obtain proper authorization before testing any system.
 ---
 
 <div align="center">
@@ -42,7 +119,6 @@
 <td width="33%">
 
 
-### 🌊 **DIGITAL CONSCIOUSNESS FLOW**
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuzakirLone&theme=synthwave&bg_color=0a0a0a&color=ff6ec7&line=00ffff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
@@ -51,126 +127,7 @@
 
 <div align="center">
 
-## 🔧 **CYBER ARSENAL** 🔧
 
-```
-╔════════════════════════════════════════════════════════════════════════════╗
-║                          🔮 ORACLE SPECIFICATIONS 🔮                      ║
-╠════════════════════════════════════════════════════════════════════════════╣
-║ Primary Nexus:       Vulnerability Assessment & Penetration Testing        ║
-║ Tech Constellation:  Burp Suite, JavaScript, Metasploit, SQL, Bash, Linux, ║
-║                      PowerShell                                            ║
-║ Expertise Domain:    Cybersecurity                                         ║
-║ Quantum Learning:    Active Directory Pentesting                           ║
-║ Neural Training:     10 hours/week                                         ║
-║ Caffeine Fuel:       1 quantum dose/day                                    ║
-║ Design Meditation:   2 hours/week                                          ║
-╚════════════════════════════════════════════════════════════════════════════╝
-
-```
-```
-🔮 MYSTICAL PROGRAMMING LANGUAGES:
-├── Quantum Spells (Python/JavaScript)
-├── Reality Manipulation (React/Vue)
-├── Time Warp Protocols (Node.js/Django)
-├── Memory Incantations (Database Systems)
-└── Interface Alchemy (UI/UX Tools)
-
-⚡ CYBER-DETECTIVE GADGETS:
-├── Code Scanners (IDEs & Editors)
-├── Bug Traps (Testing Frameworks)  
-├── Digital Microscopes (Debugging Tools)
-├── Quantum Communicators (APIs & Services)
-└── Reality Anchors (Version Control)
-```
-
-</details>
-
-</div>
-
----
-
-<div align="center">
-
-## 🗂️ **CLASSIFIED CASE FILES** 🗂️
-
-*High-priority digital investigations...*
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌟 **CASE ALPHA: Phishing Links Scanner **
-
-```
-🔴 PRIORITY: CRITICAL
-🎯 STATUS: SOLVED
-🔮 ORACLE RATING: ⭐⭐⭐⭐⭐
-```
-
-**🕵️ INVESTIGATION SUMMARY:**
-A desktop application was developed to detect phishing URLs using a combination of heuristic analysis, SSL certificate validation, and basic machine learning techniques. Built with Python and leveraging Tkinter for the interface, Requests for web interactions, and Scikit-learn for model training, the tool applies regex-based filtering and real-time certificate checks to evaluate suspicious links. It also supports batch scanning with CSV export and history tracking, enabling efficient analysis of multiple URLs while maintaining records of past evaluations. This project demonstrates a practical approach to strengthening web security through automation, intelligent detection, and user-friendly design.
-
-**⚡ MYSTICAL TOOLS DEPLOYED:**
-`[Your project1Tech]`
-
-<div align="center">
-
-[![View Case](https://img.shields.io/badge/🔍_EXAMINE_EVIDENCE-0a0a0a?style=for-the-badge&logo=github&logoColor=00ffff&labelColor=ff6ec7)](https://github.com/MuzakirLone/Brainwave_Matrix_Intern/tree/main/Phishing%20Link%20Scanner)
-[![Source Code](https://img.shields.io/badge/📂_ACCESS_VAULT-0a0a0a?style=for-the-badge&logo=git&logoColor=ff6ec7&labelColor=00ffff)](https://github.com/MuzakirLone/Brainwave_Matrix_Intern/tree/main/Phishing%20Link%20Scanner)
-
-</div>
-
----
-
-### 🌙 **CASE BETA: API Throttle Rate-Limiting Demo**
-
-```
-🟡 PRIORITY: HIGH  
-🎯 STATUS: UNDER INVESTIGATION
-🔮 ORACLE RATING: ⭐⭐⭐⭐
-```
-
-**🕵️ FIELD REPORT:**
-Production-grade API rate-limiting system using Node.js, Redis & MongoDB. Simulates throttling, distributed request limits, multi-instance sync & abuse handling. Includes server-side limiter, client tester & load-testing tools to validate throttling across backend instances.
-
-**⚡ QUANTUM ARSENAL:**
-`[Your project2Tech]`
-
-<div align="center">
-
-[![View Case](https://img.shields.io/badge/🔍_REVIEW_FINDINGS-0a0a0a?style=for-the-badge&logo=github&logoColor=00ffff&labelColor=ff6ec7)](https://github.com/MuzakirLone/API-Throttle-Distributed-API-Rate-Limiting-System)
-[![Source Code](https://img.shields.io/badge/📂_SECURE_FILES-0a0a0a?style=for-the-badge&logo=git&logoColor=ff6ec7&labelColor=00ffff)]([Your project2Repo])
-
-</div>
-
-</td>
-<td width="50%">
-
-### 🔥 **CASE GAMMA: Password Strength Checker**
-
-```
-🔴 PRIORITY: MAXIMUM
-🎯 STATUS: BREAKTHROUGH
-🔮 ORACLE RATING: ⭐⭐⭐⭐⭐
-```
-
-**🕵️ BREAKTHROUGH ANALYSIS:**
-A PyQt5 desktop application that evaluates password strength using heuristic scoring and entropy calculation. It features masked input with show/hide and copy options, a progress bar, and actionable suggestions for weak passwords. Checks include length, character classes, common passwords, and repeats, with a strength label styled via qdarkstyle. UX enhancements like copy animation, theme toggle, and responsive design guide users toward stronger, high-entropy passwords.
-
-**⚡ CYBER-MYSTICAL FRAMEWORK:**
-`[Your project3Tech]`
-
-<div align="center">
-
-[![View Case](https://img.shields.io/badge/🔍_WITNESS_BREAKTHROUGH-0a0a0a?style=for-the-badge&logo=github&logoColor=00ffff&labelColor=ff6ec7)](https://github.com/MuzakirLone/Brainwave_Matrix_Intern/tree/main/Password%20Strength%20Checker)
-[![Source Code](https://img.shields.io/badge/📂_CLASSIFIED_INTEL-0a0a0a?style=for-the-badge&logo=git&logoColor=ff6ec7&labelColor=00ffff)]([Your project3Repo])
-
-</div>
-
----
 
 ### 📊 **CONTRIBUTION CONSTELLATION**
 
@@ -181,171 +138,6 @@ A PyQt5 desktop application that evaluates password strength using heuristic sco
 </table>
 
 ---
-
-<div align="center">
-
-## 🏆 **AGENT COMMENDATIONS & PROPHECIES** 🏆
-
-*Recognition from the cyber-mystical council...*
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌟 **DISTINGUISHED ACHIEVEMENTS**
-
-```
-╔═══════════════════════════════════════════╗
-║             HALL OF RECOGNITION           ║
-╠═══════════════════════════════════════════╣
-║                                           ║
-║  Found an account takeover bug in a       ║
-║  public bug bounty program hosted by      ║
-║  Intigriti.                               ║
-║                                           ║
-║  Ranked in the top 6% of TryHackMe        ║
-║  global rankings.                         ║
-║                                           ║
-║  Currently ranked 71st in HackTheBox      ║
-║  Season 9 labs worldwide.                 ║
-║                                           ║
-║  Certifications:                          ║
-║    • Microsoft SC-900                     ║
-║    • Google Cybersecurity Certification   ║
-║    • CISCO Networking Essentials          ║
-║                                           ║
-╚═══════════════════════════════════════════╝
-```
-
-</td>
-<td width="50%">
-
-### 🔮 **ORACLE PROPHECY**
-
-```
-╔════════════════════════════════════════════════════════════════════════════╗
-║                          🌟 Future Aspirations 🌟                         ║
-╠════════════════════════════════════════════════════════════════════════════╣
-║                                                                            ║
-║ Current Mission:                                                           ║
-║   Gain a cybersecurity internship to build experience in the job field.    ║
-║                                                                            ║
-║ Next Dimension:                                                            ║
-║   Become a Cybersecurity Engineer or Penetration Tester.                   ║
-║                                                                            ║
-║ Ultimate Quest:                                                            ║
-║   Securing user data and interests in this technologically advancing world.║
-║                                                                            ║
-║ Focus Nexus:                                                               ║
-║   Learning and practicing Active Directory Penetration Testing.            ║
-║                                                                            ║
-║ Sacred Wisdom:                                                             ║
-║   "Never say no to hard things; they are the ones that challenge you and   ║
-║    ultimately help you grow." – Muzakir Lone                               ║
-║                                                                            ║
-╚════════════════════════════════════════════════════════════════════════════╝
-
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 🧬 **AGENT PSYCHOLOGICAL MATRIX** 🧬
-
-*Deep neural profile analysis...*
-
-<table>
-<tr>
-<td width="25%">
-
-**🔮 Current Study**
-```
-📚 Black Hat Python by Tim Arnold
-```
-
-</td>
-<td width="25%">
-
-**⚡ Quantum Ability**
-```
-🦾 Finding loopholes in web application codes.
-```
-
-</td>
-<td width="25%">
-
-**🌟 Operating Code**
-```
-💫 Never ever give up on your dreams
-```
-
-</td>
-<td width="25%">
-
-**🎯 Interests Nexus**
-```
-🔍 Web application security, Penetration testing and Bug Hunting
-```
-
-</td>
-</tr>
-<tr>
-<td width="25%">
-
-**🎮 Recreation Alpha**
-```
-🎯 Travelling
-```
-
-</td>
-<td width="25%">
-
-**🌙 Recreation Beta**
-```
-🎨 Studying Modern History
-```
-
-</td>
-<td width="25%">
-
-**🔬 Classified Intel**
-```
-🤫 Once I start solving labs on HackTheBox, only GOD can stop me afterwards.
-```
-
-</td>
-<td width="25%">
-
-**⚠️ System Vulnerability**
-```
-🔓 Public Speaking
-Handwriting
-Time Management
-```
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### 🌐 **DIMENSIONAL PORTALS**
-
-[![Email](https://img.shields.io/badge/📧_Quantum_Message-0a0a0a?style=for-the-badge&logo=protonmail&logoColor=00ffff&labelColor=ff6ec7)](mailto:muzakirmasood2005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_Professional_Portal-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=ff6ec7&labelColor=00ffff)](muzakir-l-65b7691a5/)
-[![Twitter](https://img.shields.io/badge/🐦_Intel_Network-0a0a0a?style=for-the-badge&logo=twitter&logoColor=00ffff&labelColor=ff6ec7)]([Your twitter])
-[![Portfolio](https://img.shields.io/badge/🌐_Case_Archives-0a0a0a?style=for-the-badge&logo=firefox&logoColor=ff6ec7&labelColor=00ffff)]([Your website])
-[![Discord](https://img.shields.io/badge/🎮_Secure_Comms-0a0a0a?style=for-the-badge&logo=discord&logoColor=00ffff&labelColor=ff6ec7)]([Your discord])
-
 ---
 
 <div align="center">
