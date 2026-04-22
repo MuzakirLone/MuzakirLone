@@ -8,8 +8,8 @@
 ║   Working As: Security Researcher • DEPARTMENT: HackerOne                     ║
 ║   Location: Anantnag, Jammu and Kashmir • Experience: Fresher                 ║
 ║                                                                               ║
-║             STATUS: Security Researcher at HackerOne and open to new          ║
-║               opportunities                                                   ║
+║             STATUS: Security Researcher at YesWeHack,HackerOne and Bugcrowd   ║
+║             and open to new opportunities                                     ║
 ║                                                                               ║
 ║                                                                               ║
 ║     PROFILE:                                                                  ║
