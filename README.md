@@ -5,10 +5,10 @@
 ║ 🔮🕵️                           Introduction                             🕵️🔮║
 ║                                                                               ║
 ║   Name: Muzakir Masood Lone                                                   ║
-║   Working As: Security Researcher • DEPARTMENT: HackerOne                     ║
+║   Working As: Security Researcher • DEPARTMENT: YesWeHack                     ║
 ║   Location: Anantnag, Jammu and Kashmir • Experience: Fresher                 ║
 ║                                                                               ║
-║             STATUS: Security Researcher at YesWeHack,HackerOne and Bugcrowd   ║
+║             STATUS: Security Researcher at YesWeHack,YesWeHack and Bugcrowd   ║
 ║             and open to new opportunities                                     ║
 ║                                                                               ║
 ║                                                                               ║
@@ -16,7 +16,7 @@
 ║     I am a Cybersecurity student passionate about web application security,   ║
 ║     bug bounty hunting, and penetration testing.                              ║
 ║                                                                               ║
-║     I am a security researcher at HackerOne and I love to find bugs in web    ║
+║     I am a security researcher at YesWeHack and I love to find bugs in web    ║
 ║     applications, especially in web domains. I have found bugs like XSS,      ║
 ║     Broken Access Control, Sensitive Data Exposure, and account takeovers.    ║
 ║                                                                               ║
